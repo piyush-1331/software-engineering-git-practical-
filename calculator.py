@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b
 
-print("Addition:", add(10, 20))
+print("Addition Result:", add(10, 20))
 
 def subtract(a, b):
     return a - b
